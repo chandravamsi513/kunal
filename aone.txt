@@ -1,1 +1,2 @@
 hi this is newly created file 
+hi this is newly modified for the first time
